@@ -12,55 +12,67 @@ namespace AssignmentManagement.UI
         {
             _assignmentService = assignmentService;
         }
-
-        public void Run()
+        private void ListOptions()
         {
-            while (true)
-            {
-                Console.WriteLine("\nAssignment Manager Menu:");
-                Console.WriteLine("1. Add Assignment");
-                Console.WriteLine("2. List All Assignments");
-                Console.WriteLine("3. List Incomplete Assignments");
-                Console.WriteLine("4. Mark Assignment as Complete");
-                Console.WriteLine("5. Search Assignment by Title");
-                Console.WriteLine("6. Update Assignment");
-                Console.WriteLine("7. Delete Assignment");
-                Console.WriteLine("0. Exit");
-                Console.Write("Choose an option: ");
-                var input = Console.ReadLine();
+			Console.WriteLine("\nAssignment Manager Menu:");
+			Console.WriteLine("1. Add Assignment");
+			Console.WriteLine("2. List All Assignments");
+			Console.WriteLine("3. List Incomplete Assignments");
+			Console.WriteLine("4. Mark Assignment as Complete");
+			Console.WriteLine("5. Search Assignment by Title");
+			Console.WriteLine("6. Update Assignment");
+			Console.WriteLine("7. Delete Assignment");
+			Console.WriteLine("0. Exit");
+			Console.Write("Choose an option: ");
+		}
+		private bool HandleInput(string input)
+		{
+			switch (input)
+			{
+				case "1":
+					AddAssignment();
+					break;
+				case "2":
+					ListAllAssignments();
+					break;
+				case "3":
+					ListIncompleteAssignments();
+					break;
+				case "4":
+					MarkAssignmentComplete(); // TODO
+					break;
+				case "5":
+					SearchAssignmentByTitle(); // TODO
+					break;
+				case "6":
+					UpdateAssignment(); // TODO
+					break;
+				case "7":
+					DeleteAssignment(); // TODO
+					break;
+				case "0":
+					return false; 
+				default:
+					Console.WriteLine("Invalid choice. Try again.");
+					break;
+			}
+			return true;
+		}
+		public void Run()
+        {
+			while (true)
+			{
+				ListOptions();
 
-                switch (input)
-                {
-                    case "1":
-                        AddAssignment();
-                        break;
-                    case "2":
-                        ListAllAssignments();
-                        break;
-                    case "3":
-                        ListIncompleteAssignments();
-                        break;
-                    case "4":
-                        MarkAssignmentComplete(); // TODO
-                        break;
-                    case "5":
-                        SearchAssignmentByTitle(); // TODO
-                        break;
-                    case "6":
-                        UpdateAssignment(); // TODO
-                        break;
-                    case "7":
-                        DeleteAssignment(); // TODO
-                        break;
-                    case "0":
-                        Console.WriteLine("Goodbye!");
-                        return;
-                    default:
-                        Console.WriteLine("Invalid choice. Try again.");
-                        break;
-                }
-            }
-        }
+				var input = Console.ReadLine();
+
+				if (!HandleInput(input))
+				{
+					Console.WriteLine("Goodbye!");
+					return;
+				}
+			}
+		}
 
         private void AddAssignment()
         {

@@ -103,3 +103,4 @@ E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentMa
 E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.pdb
 E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\Assignme.C1ED4044.Up2Date
 E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\ref\AssignmentManagement.UI.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.sourcelink.json

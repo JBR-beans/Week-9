@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EFE5E7B-98AD-46C0-AF8C-3AF6D8105559}|AssignmentManagement.UI\\AssignmentManagement.UI.csproj|e:\\school\\bas\\spring 2025\\software engineering ii it 340\\week8_stub\\assignmentmanagement.ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE5E7B-98AD-46C0-AF8C-3AF6D8105559}|AssignmentManagement.UI\\AssignmentManagement.UI.csproj|solutionrelative:assignmentmanagement.ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47484B13-B280-4C4B-B76D-8CC18AF0E048}|AssignmentManagement.Tests\\AssignmentManagement.Tests.csproj|e:\\school\\bas\\spring 2025\\software engineering ii it 340\\week8_stub\\assignmentmanagement.tests\\consoleuitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47484B13-B280-4C4B-B76D-8CC18AF0E048}|AssignmentManagement.Tests\\AssignmentManagement.Tests.csproj|solutionrelative:assignmentmanagement.tests\\consoleuitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EFE5E7B-98AD-46C0-AF8C-3AF6D8105559}|AssignmentManagement.UI\\AssignmentManagement.UI.csproj|e:\\school\\bas\\spring 2025\\software engineering ii it 340\\week8_stub\\assignmentmanagement.ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EFE5E7B-98AD-46C0-AF8C-3AF6D8105559}|AssignmentManagement.UI\\AssignmentManagement.UI.csproj|solutionrelative:assignmentmanagement.ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1C5CF5F-45F9-A38A-BC56-0A1A2F505995}|AssignmentManagement.ApiTests\\AssignmentManagement.ApiTests.csproj|e:\\school\\bas\\spring 2025\\software engineering ii it 340\\week8_stub\\assignmentmanagement.apitests\\assignmentapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C5CF5F-45F9-A38A-BC56-0A1A2F505995}|AssignmentManagement.ApiTests\\AssignmentManagement.ApiTests.csproj|solutionrelative:assignmentmanagement.apitests\\assignmentapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AF3AEB-DD05-A36F-E1B8-1AF52C0F26BE}|AssignmentManagement.Console\\AssignmentManagement.Console.csproj|e:\\school\\bas\\spring 2025\\software engineering ii it 340\\week8_stub\\assignmentmanagement.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AF3AEB-DD05-A36F-E1B8-1AF52C0F26BE}|AssignmentManagement.Console\\AssignmentManagement.Console.csproj|solutionrelative:assignmentmanagement.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{102534E9-9866-479D-9C15-567D5CC42D54}|AssignmentManagement.Core\\AssignmentManagement.Core.csproj|e:\\school\\bas\\spring 2025\\software engineering ii it 340\\week8_stub\\assignmentmanagement.core\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{47484B13-B280-4C4B-B76D-8CC18AF0E048}|AssignmentManagement.Tests\\AssignmentManagement.Tests.csproj|solutionrelative:assignmentmanagement.tests\\assignmentapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1C5CF5F-45F9-A38A-BC56-0A1A2F505995}|AssignmentManagement.ApiTests\\AssignmentManagement.ApiTests.csproj|e:\\school\\bas\\spring 2025\\software engineering ii it 340\\week8_stub\\assignmentmanagement.apitests\\assignmentapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1C5CF5F-45F9-A38A-BC56-0A1A2F505995}|AssignmentManagement.ApiTests\\AssignmentManagement.ApiTests.csproj|solutionrelative:assignmentmanagement.apitests\\assignmentapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{102534E9-9866-479D-9C15-567D5CC42D54}|AssignmentManagement.Core\\AssignmentManagement.Core.csproj|e:\\school\\bas\\spring 2025\\software engineering ii it 340\\week8_stub\\assignmentmanagement.core\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{102534E9-9866-479D-9C15-567D5CC42D54}|AssignmentManagement.Core\\AssignmentManagement.Core.csproj|solutionrelative:assignmentmanagement.core\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +66,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentManagement.Console\\Program.cs",
+              "ToolTip": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\Program.cs",
+              "RelativeToolTip": "AssignmentManagement.Console\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:23:07.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ConsoleUITests.cs",
               "DocumentMoniker": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\ConsoleUITests.cs",
               "RelativeDocumentMoniker": "AssignmentManagement.Tests\\ConsoleUITests.cs",
               "ToolTip": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\ConsoleUITests.cs",
               "RelativeToolTip": "AssignmentManagement.Tests\\ConsoleUITests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T05:26:19.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AssignmentServiceTests.cs",
               "DocumentMoniker": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\AssignmentServiceTests.cs",
               "RelativeDocumentMoniker": "AssignmentManagement.Tests\\AssignmentServiceTests.cs",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "AssignmentManagement.Tests\\AssignmentServiceTests.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:25:49.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T05:25:49.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AssignmentApiTests.cs",
               "DocumentMoniker": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\AssignmentApiTests.cs",
               "RelativeDocumentMoniker": "AssignmentManagement.Tests\\AssignmentApiTests.cs",
@@ -96,38 +112,37 @@
               "RelativeToolTip": "AssignmentManagement.Tests\\AssignmentApiTests.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAIwBcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:25:17.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T05:25:17.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AssignmentApiTests.cs",
               "DocumentMoniker": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.ApiTests\\AssignmentApiTests.cs",
               "RelativeDocumentMoniker": "AssignmentManagement.ApiTests\\AssignmentApiTests.cs",
               "ToolTip": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.ApiTests\\AssignmentApiTests.cs",
               "RelativeToolTip": "AssignmentManagement.ApiTests\\AssignmentApiTests.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACoAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T05:24:36.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ConsoleUI.cs",
               "DocumentMoniker": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\ConsoleUI.cs",
               "RelativeDocumentMoniker": "AssignmentManagement.UI\\ConsoleUI.cs",
               "ToolTip": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\ConsoleUI.cs",
               "RelativeToolTip": "AssignmentManagement.UI\\ConsoleUI.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T05:22:48.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Assignment.cs",
               "DocumentMoniker": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\Assignment.cs",
               "RelativeDocumentMoniker": "AssignmentManagement.Core\\Assignment.cs",
@@ -135,18 +150,17 @@
               "RelativeToolTip": "AssignmentManagement.Core\\Assignment.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAswEgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:08:52.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T05:08:52.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AssignmentService.cs",
               "DocumentMoniker": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentService.cs",
               "RelativeDocumentMoniker": "AssignmentManagement.Core\\AssignmentService.cs",
               "ToolTip": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentService.cs",
               "RelativeToolTip": "AssignmentManagement.Core\\AssignmentService.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T04:02:09.768Z",
               "EditorCaption": ""
