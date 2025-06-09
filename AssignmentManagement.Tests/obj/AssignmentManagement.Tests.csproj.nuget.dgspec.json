@@ -1,0 +1,409 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\AssignmentManagement.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Api\\AssignmentManagement.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Api\\AssignmentManagement.Api.csproj",
+        "projectName": "AssignmentManagement.Api",
+        "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Api\\AssignmentManagement.Api.csproj",
+        "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+        "outputPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\AssignmentManagement.Console.csproj": {
+                "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\AssignmentManagement.Console.csproj"
+              },
+              "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj": {
+                "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\AssignmentManagement.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\AssignmentManagement.Console.csproj",
+        "projectName": "AssignmentManagement.Console",
+        "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\AssignmentManagement.Console.csproj",
+        "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+        "outputPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj": {
+                "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj"
+              },
+              "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\AssignmentManagement.UI.csproj": {
+                "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\AssignmentManagement.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj",
+        "projectName": "AssignmentManagement.Core",
+        "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj",
+        "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+        "outputPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\AssignmentManagement.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\AssignmentManagement.Tests.csproj",
+        "projectName": "AssignmentManagement.Tests",
+        "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\AssignmentManagement.Tests.csproj",
+        "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+        "outputPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Api\\AssignmentManagement.Api.csproj": {
+                "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Api\\AssignmentManagement.Api.csproj"
+              },
+              "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\AssignmentManagement.Console.csproj": {
+                "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\AssignmentManagement.Console.csproj"
+              },
+              "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj": {
+                "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.13.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\AssignmentManagement.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\AssignmentManagement.UI.csproj",
+        "projectName": "AssignmentManagement.UI",
+        "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\AssignmentManagement.UI.csproj",
+        "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+        "outputPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj": {
+                "projectPath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Core\\AssignmentManagement.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AssignmentManament.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "AssignmentManagement.Core": "1.0.0"
+        },
+        "runtime": {
+          "AssignmentManament.ConsoleUI.dll": {}
+        }
+      },
+      "AssignmentManagement.Core/1.0.0": {
+        "runtime": {
+          "AssignmentManagement.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssignmentManament.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssignmentManagement.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

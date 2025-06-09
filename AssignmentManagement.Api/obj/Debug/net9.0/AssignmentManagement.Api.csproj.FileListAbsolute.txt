@@ -1,0 +1,187 @@
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.staticwebassets.endpoints.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.exe
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.runtimeconfig.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\scopedcss\bundle\AssignmentManagement.Api.styles.css
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentManagement.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\Assignme.85B69E27.Up2Date
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\refint\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.genruntimeconfig.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\obj\Debug\net9.0\ref\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManament.ConsoleUI.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManament.ConsoleUI.runtimeconfig.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManament.ConsoleUI.exe
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManament.ConsoleUI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_SubmissionReady\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManament.ConsoleUI.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\refint\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.staticwebassets.endpoints.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.runtimeconfig.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.exe
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.exe
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.runtimeconfig.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\scopedcss\bundle\AssignmentManagement.Api.styles.css
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentManagement.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\Assignme.85B69E27.Up2Date
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.genruntimeconfig.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Completed\AssignmentManagement.Api\obj\Debug\net9.0\ref\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\refint\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.runtimeconfig.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.exe
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.staticwebassets.endpoints.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.exe
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.runtimeconfig.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.ConsoleUI.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\scopedcss\bundle\AssignmentManagement.Api.styles.css
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentManagement.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\Assignme.85B69E27.Up2Date
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.genruntimeconfig.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week6_CorrectedFinal\AssignmentManagement.Api\obj\Debug\net9.0\ref\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.runtimeconfig.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.exe
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.staticwebassets.endpoints.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.exe
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.runtimeconfig.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\scopedcss\bundle\AssignmentManagement.Api.styles.css
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentManagement.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AssignmentManagement.Api.props
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\Assignme.85B69E27.Up2Date
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\refint\AssignmentManagement.Api.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.genruntimeconfig.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.Api\obj\Debug\net9.0\ref\AssignmentManagement.Api.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.AssemblyReference.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfoInputs.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.AssemblyInfo.cs
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.csproj.CoreCompileInputs.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\refint\AssignmentManagement.Api.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.pdb
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\appsettings.Development.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\appsettings.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.deps.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.runtimeconfig.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.exe
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.staticwebassets.endpoints.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.exe
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.deps.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.runtimeconfig.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Api.pdb
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.UI.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Console.pdb
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\scopedcss\bundle\AssignmentManagement.Api.styles.css
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.development.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\Assignme.85B69E27.Up2Date
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\AssignmentManagement.Api.genruntimeconfig.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.Api\obj\Debug\net9.0\ref\AssignmentManagement.Api.dll

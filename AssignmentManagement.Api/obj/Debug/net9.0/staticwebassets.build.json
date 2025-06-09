@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "r9/0Pzu0vGGOjHUDz9hYq+m/kA0cJOFDyRAe9M/f2Oc=",
+  "Source": "AssignmentManagement.Api",
+  "BasePath": "_content/AssignmentManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

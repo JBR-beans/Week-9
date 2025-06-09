@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4OyJ6bSv/NM=",
+  "success": true,
+  "projectFilePath": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.Console\\AssignmentManagement.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

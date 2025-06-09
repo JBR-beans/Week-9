@@ -1,0 +1,52 @@
+# 📋 Change Management Plan Template
+**Student Name: Juliea Ritola**
+**Date Submitted: 6/8/25**
+
+## 📋 Purpose of Change
+-Creation of Assignments in tests don't include the required properties.
+-Console wasn't resolving services and failing to run properly.
+-DeleteAssignment was a stub and needed to be implemented.
+-Assignment needs check for blank title input in constructor.
+-Assignment.Update needs to check for blank in coming description input.
+-AddAssignment doesn't receive user input for DueDate.
+-Constructor receives input for the notes section but doesn't implement it into the assignment.
+-Need to check if DueDate is null.
+-Need to check if the assignment is completed when checking if it's overdue.
+-Notes are not displayed in ToString override.
+-Updated Assignments doesn't include all properties.
+-Requesting list of incomplete assignments doesn't include all data for assignment.
+-There needs to be logging.
+
+## 📋 Summary of Changes
+-Updated tests to include the appropriate properties. Created some logic to help with updating properties. Affects all test projects involving Assignments.
+-Added singletons for AppLogger and AssignmentFormatter to entry point Program.cs in .Console project.
+-Added logic to DeleteAssignment to get assignments, find the matching title, and catch errors.
+-Assignment will throw an exception if Title is blank during construction.
+-Assignment will throw an except if the incoming Description will be blank.
+-Added user prompt to enter a due date.
+-Assignment Notes property is populated with the user input during construction.
+-If DueDate is null an exception is thrown.
+-Completion is checked before marking an assignment overdue.
+-ToString override updated to include notes if they are present.
+-Assignment logic updated to properly assign new values for all properties.
+-Incomplete assignments now list all data when requested.
+-Logging added through AssignmentService.
+
+## TDD Process✅
+-All tests that created an Assignment were affected and failed, updated to include properties, tests passed successfully.
+-Test failed, Assignment changed to check Titles, test passed.
+-Test failed, Assignment.Update changed to check incoming Descriptions, test passed.
+-Test failed, AssignmentService updated with parameterless constructor.
+-Test failed, SearchAssignmentByTitle_Should_Display_Assignment name mismatch fixed and now passes.
+-Test failed, expected output and test output mistmatch, test output fixed and test passes.
+## 📋 Additional Coverage
+-Implemented new properties throughout services and tests, and integrated into the UI flow.
+-Added a test for the console logger to ensure to ensure reliability when debugging.
+
+## 📋 Challenges
+One test was not passing or failing but rather hanging indefinitely until the testing was stopped. I thought this was bizarre behavior so I thought it wasn't related to the homework assignment and spent quite a while trying to figure out what could have been causing it. Turns out it was just DeleteAssignment that needed to be implemented. I didn't check this initially because I forgot I was working with the starter project and not my project I've been working on, where I have DeleteAssignment implemented. Task failed successfully! A simple thing but due to a little confusion, it got overlooked.
+
+Going through tests and updating each assignment creation to include new features or changes. This is like a prediction for the future and not really a challenge now, but has potential to become quite tedious.
+
+## 📋 Recommendations
+Changing parameters later will require more work as the application grows in complexity, be prepared for this when adding or removing new features. Creation of Assignments should be streamlined and put into a reusable block of code for testing.

@@ -1,0 +1,7 @@
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagementSystem.Api\obj\Debug\net9.0\AssignmentManagementSystem.Api.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagementSystem.Api\obj\Debug\net9.0\AssignmentManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagementSystem.Api\obj\Debug\net9.0\AssignmentManagementSystem.Api.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagementSystem.Api\obj\Debug\net9.0\AssignmentManagementSystem.Api.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagementSystem.Api\obj\Debug\net9.0\AssignmentManagementSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagementSystem.Api\obj\Debug\net9.0\AssignmentManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagementSystem.Api\obj\Debug\net9.0\AssignmentManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache

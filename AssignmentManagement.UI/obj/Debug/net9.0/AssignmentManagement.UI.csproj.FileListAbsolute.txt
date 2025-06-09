@@ -1,0 +1,105 @@
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.deps.json
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\Assignme.C1ED4044.Up2Date
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\refint\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentMangementSystem\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\ref\AssignmentManagement.UI.dll
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.deps.json
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.AssemblyReference.cache
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfoInputs.cache
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfo.cs
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\Assignme.C1ED4044.Up2Date
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\refint\AssignmentManagement.UI.dll
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\LenoreMontalbano\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\ref\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.deps.json
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\Assignme.C1ED4044.Up2Date
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\refint\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentMangementSystem_Week4_Starter\AssignmentManagement.UI\obj\Debug\net9.0\ref\AssignmentManagement.UI.dll
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.deps.json
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.AssemblyReference.cache
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfoInputs.cache
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfo.cs
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\Assignme.C1ED4044.Up2Date
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\refint\AssignmentManagement.UI.dll
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\OneDrive\Desktop\Centralia College\Classes\IT340 Software Engineering II\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\ref\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\Assignme.C1ED4044.Up2Date
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\refint\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week5_Complete\AssignmentManagement.UI\obj\Debug\net9.0\ref\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.deps.json
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.AssemblyReference.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfoInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfo.cs
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\Assignme.C1ED4044.Up2Date
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\refint\AssignmentManagement.UI.dll
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.pdb
+C:\Users\lmont\Downloads\AssignmentManagementSystem_Week8_Solution_Cleaned\AssignmentManagementSystem_Week8_Solution\AssignmentManagement.UI\obj\Debug\net9.0\ref\AssignmentManagement.UI.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.AssemblyReference.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfoInputs.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.AssemblyInfo.cs
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.csproj.CoreCompileInputs.cache
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\refint\AssignmentManagement.UI.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\AssignmentManagement.UI.pdb
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.deps.json
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.UI.pdb
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.dll
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\bin\Debug\net9.0\AssignmentManagement.Core.pdb
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\Assignme.C1ED4044.Up2Date
+E:\School\BAS\Spring 2025\Software Engineering II IT 340\week8_stub\AssignmentManagement.UI\obj\Debug\net9.0\ref\AssignmentManagement.UI.dll
