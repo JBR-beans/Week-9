@@ -1,0 +1,4 @@
+3 areas of concern
+AssignmentManagement.Core Assignment constructor has many checks, these could be split up into their own methods or even a validating service.
+ConsoleUI Run method has a lot of logic built into it that should be separated out into either methods scoped to the consoleUI or added to a service dedicated to the area.
+When properties are added or removed from the Assignment model, these changes need to propagate throughout tests, methods, and services. This is really tedious and time consuming to do, and can introduce many trivial bugs to hunt for caused by methods having the wrong parameters.

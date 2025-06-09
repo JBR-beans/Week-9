@@ -74,8 +74,7 @@
               "RelativeToolTip": "AssignmentManagement.Console\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAlwAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T06:23:07.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T06:23:07.986Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "AssignmentManagement.Tests\\ConsoleUITests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:26:19.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T05:26:19.04Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "AssignmentManagement.ApiTests\\AssignmentApiTests.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:24:36.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T05:24:36.053Z"
             },
             {
               "$type": "Document",
@@ -135,7 +132,7 @@
               "RelativeDocumentMoniker": "AssignmentManagement.UI\\ConsoleUI.cs",
               "ToolTip": "E:\\School\\BAS\\Spring 2025\\Software Engineering II IT 340\\week8_stub\\AssignmentManagement.UI\\ConsoleUI.cs",
               "RelativeToolTip": "AssignmentManagement.UI\\ConsoleUI.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwDIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T05:22:48.278Z",
               "EditorCaption": ""
@@ -162,8 +159,7 @@
               "RelativeToolTip": "AssignmentManagement.Core\\AssignmentService.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAcwFwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T04:02:09.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T04:02:09.768Z"
             }
           ]
         }
